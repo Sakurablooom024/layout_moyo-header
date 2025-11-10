@@ -16,6 +16,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-right: 50px;
 }
 
 .header__logo {
@@ -41,7 +42,7 @@ body {
 
 .nav__item {
   list-style: none;
-  margin-left: 32px;
+  margin-left: 20px;
 }
 
 .nav__item:first-child {
